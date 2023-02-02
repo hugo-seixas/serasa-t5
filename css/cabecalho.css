@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: blue;
+    background-color: #0d4c94;
     color: white;
 
     font-weight: bold;
@@ -33,7 +33,7 @@
 .cabecalho_menu-destaque{
     margin-left: 1.42em;
     border-radius: 6px;
-    background-color: red;
+    background-color:#cd2c92;
 }
 
 .cabecalho_menu-destaque a{

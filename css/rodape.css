@@ -7,7 +7,8 @@
 
     text-align: center;
 
-    background-color: aqua;
+    background-color:#0d4c94;
+    color: whitesmoke;
 }
 
 .rodape_lista-redes-sociais {
@@ -25,7 +26,6 @@
 }
 .rodape_titulo{
     font-size: 1.5em;
-    text-transform: uppercase;
     font-weight: bold;
     margin: 0 0 0.5em;
 }
@@ -43,7 +43,7 @@
 }
 
 .rodape_newsletter-botao {
-    background-color: red;
+    background-color:#cd2c92;
     color:white;
     border:none;
 

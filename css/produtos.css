@@ -1,5 +1,5 @@
 .produtos {
-    background-color: rgb(111, 111, 230);
+    background-color: #baaed1;
     text-align: center;
     display: flex;
     align-items: center;
@@ -11,17 +11,18 @@
 .botao {
     margin-left: 1.42em;
     border-radius: 6px;
-    background-color: red;
+    background-color:#cd2c92;
     text-transform: uppercase;
     color:white;
     margin-right: 1em;
+    margin-top: 1em;
     padding: 1em 50px;
     
 }
 
 .botao:hover{
     transition: 1s;
-    background: rebeccapurple;
+    background: #895aab;
 }
 
 .produtos_chamada {
@@ -37,7 +38,7 @@
 .produtos_item {
     border: 1px solid black;
     border-radius: 8px;
-    background-color: aliceblue;
+    background-color: #c494cc;
     width: 200px;
     height: 200px;
     
@@ -54,6 +55,7 @@
     padding: 1em;
     
     
+    
 }
 
 .produto-destaque {
@@ -64,4 +66,5 @@
 .chamada_titulo {
     font-size: 1.5em;
     padding-bottom: 0.5em;
+    
 }
